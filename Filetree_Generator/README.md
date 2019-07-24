@@ -1,0 +1,2 @@
+# Datacamp Filetree Generator
+This is a tool I wrote to automate the process of creating the file system for recording your source code. Rename the target course to filenames.txt and run python file.py and it will automagically produce all the blank .py files for your course. These lists are also useful for constructing your Jupyter notebooks as you can simply place # marks appopriately and ctrl+shift+- (split cells) away. I have excluded the titles of the videos as there will be no source code associated with those subheadings.

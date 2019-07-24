@@ -1,0 +1,50 @@
+Exploring your data
+Loading and viewing your data
+Further diagnosis
+Calculating summary statistics
+Frequency counts for categorical data
+Visualizing single variables with histograms
+Visualizing multiple variables with boxplots
+Visualizing multiple variables with scatter plots
+
+Tidying data for analysis
+Recognizing tidy data
+Reshaping your data using melt
+Customizing melted data
+Pivot data
+Resetting the index of a DataFrame
+Pivoting duplicate values
+Splitting a column with .str
+Splitting a column with .split() and .get()
+
+Combining data for analysis
+Combining rows of data
+Combining columns of data
+Finding files that match a pattern
+Iterating and concatenating all matches
+1-to-1 data merge
+Many-to-1 data merge
+Many-to-many data merge
+
+Cleaning data for analysis
+Converting data types
+Working with numeric data
+String parsing with regular expressions
+Extracting numerical values from strings
+Pattern matching
+Custom functions to clean data
+Lambda functions
+Dropping duplicate data
+Filling missing data
+Testing your data with asserts
+
+Case study
+Exploratory analysis
+Visualizing your data
+Thinking about the question at hand
+Assembling your data
+Reshaping your data
+Checking the data types
+Looking at country spellings
+More data cleaning and processing
+Wrapping up

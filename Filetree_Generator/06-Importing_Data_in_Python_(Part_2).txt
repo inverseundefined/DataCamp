@@ -1,0 +1,27 @@
+Importing data from the Internet
+Importing flat files from the web: your turn!
+Opening and reading flat files from the web
+Importing non-flat files from the web
+Performing HTTP requests in Python using urllib
+Printing HTTP request results in Python using urllib
+Performing HTTP requests in Python using requests
+Parsing HTML with BeautifulSoup
+Turning a webpage into data using BeautifulSoup: getting the text
+Turning a webpage into data using BeautifulSoup: getting the hyperlinks
+
+Interacting with APIs to import data from the web
+Pop quiz: What exactly is a JSON?
+Loading and exploring a JSON
+Pop quiz: Exploring your JSON
+Pop quiz: What's an API?
+API requests
+JSON–from the web to Python
+Checking out the Wikipedia API
+
+Diving deep into the Twitter API
+API Authentication
+Streaming tweets
+Load and explore your Twitter data
+Twitter data to DataFrame
+A little bit of Twitter text analysis
+Plotting your Twitter data

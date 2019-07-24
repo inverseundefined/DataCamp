@@ -1,0 +1,53 @@
+Python Basics
+The Python Interface
+When to use Python?
+Any comments?
+Python as a calculator
+Variable Assignment
+Calculations with variables
+Other variable types
+Guess the type
+Operations with other types
+Type conversion
+Can Python handle everything?
+
+Python Lists
+Create a list
+Create list with different types
+Select the valid list
+List of lists
+Subset and conquer
+Subset and calculate
+Slicing and dicing
+Slicing and dicing (2)
+Subsetting lists of lists
+Replace list elements
+Extend a list
+Delete list elements
+Inner workings of lists
+
+Functions and Packages
+Familiar functions
+Help!
+Multiple arguments
+String Methods
+List Methods
+List Methods (2)
+Import package
+Selective import
+Different ways of importing
+
+NumPy
+Your First NumPy Array
+Baseball players' height
+Baseball player's BMI
+Lightweight baseball players
+NumPy Side Effects
+Subsetting NumPy Arrays
+Your First 2D NumPy Array
+Baseball data in 2D form
+Subsetting 2D NumPy Arrays
+2D Arithmetic
+Average versus median
+Explore the baseball data
+Blend it all together

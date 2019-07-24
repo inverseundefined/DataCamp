@@ -1,0 +1,44 @@
+Introduction and flat files
+Exploring your working directory
+Importing entire text files
+Importing text files line by line
+Pop quiz: examples of flat files
+Pop quiz: what exactly are flat files?
+Why we like flat files and the Zen of Python
+Using NumPy to import flat files
+Customizing your NumPy import
+Importing different datatypes
+Working with mixed datatypes (1)
+Working with mixed datatypes (2)
+Using pandas to import flat files as DataFrames (1)
+Using pandas to import flat files as DataFrames (2)
+Customizing your pandas import
+
+Importing data from other file types
+Not so flat any more
+Loading a pickled file
+Listing sheets in Excel files
+Importing sheets from Excel files
+Customizing your spreadsheet import
+How to import SAS7BDAT
+Importing SAS files
+Using read_stata to import Stata files
+Importing Stata files
+Using File to import HDF5 files
+Using h5py to import HDF5 files
+Extracting data from your HDF5 file
+Loading .mat files
+The structure of .mat in Python
+
+Working with relational databases in Python
+Pop quiz: The relational model
+Creating a database engine
+What are the tables in the database?
+The Hello World of SQL Queries!
+Customizing the Hello World of SQL Queries
+Filtering your database records using SQL's WHERE
+Ordering your SQL records with ORDER BY
+Pandas and The Hello World of SQL Queries!
+Pandas for more complex querying
+The power of SQL lies in relationships between tables: INNER JOIN
+Filtering your INNER JOIN

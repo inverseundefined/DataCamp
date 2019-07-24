@@ -1,0 +1,40 @@
+Python Data Science Toolbox (Part 2)
+Using iterators in PythonLand
+Iterators vs Iterables
+Iterating over iterables (1)
+Iterating over iterables (2)
+Iterators as function arguments
+Using enumerate
+Using zip
+Using * and zip to 'unzip'
+Processing large amounts of Twitter data
+Extracting information for large amounts of Twitter data
+
+List comprehensions and generators
+Write a basic list comprehension
+List comprehension over iterables
+Writing list comprehensions
+Nested list comprehensions
+Using conditionals in comprehensions (1)
+Using conditionals in comprehensions (2)
+Dict comprehensions
+List comprehensions vs generators
+Write your own generator expressions
+Changing the output in generator expressions
+Build a generator
+List comprehensions for time-stamped data
+Conditional list comprehensions for time-stamped data
+
+Bringing it all together!
+Dictionaries for data science
+Writing a function to help you
+Using a list comprehension
+Turning this all into a DataFrame
+Processing data in chunks (1)
+Writing a generator to load data in chunks (2)
+Writing a generator to load data in chunks (3)
+Writing an iterator to load data in chunks (1)
+Writing an iterator to load data in chunks (2)
+Writing an iterator to load data in chunks (3)
+Writing an iterator to load data in chunks (4)
+Writing an iterator to load data in chunks (5)

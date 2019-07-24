@@ -1,0 +1,57 @@
+Basics of Relational Databases
+Relational Model
+Connecting to your Database
+Engines and Connection Strings
+Autoloading Tables from a Database
+Viewing Table Details
+Selecting data from a Table: raw SQL
+Selecting data from a Table with SQLAlchemy
+Handling a ResultSet
+
+Applying Filtering, Ordering and Grouping to Queries
+Connecting to a PostgreSQL Database
+Filter data selected from a Table - Simple
+Filter data selected from a Table - Expressions
+Filter data selected from a Table - Advanced
+Ordering by a Single Column
+Ordering in Descending Order by a Single Column
+Ordering by Multiple Columns
+Counting Distinct Data
+Count of Records by State
+Determining the Population Sum by State
+SQLAlchemy ResultsSet and Pandas Dataframes
+From SQLAlchemy results to a Graph
+
+Advanced SQLAlchemy Queries
+Connecting to a MySQL Database
+Calculating a Difference between Two Columns
+Determining the Overall Percentage of Females
+Automatic Joins with an Established Relationship
+Joins
+More Practice with Joins
+Working with Hierarchical Tables
+Using alias to handle same table joined queries
+Leveraging Functions and Group_bys with Hierarchical Data
+Working on Blocks of Records
+
+Creating and Manipulating your own Databases
+Creating Tables with SQLAlchemy
+Constraints and Data Defaults
+Inserting a single row with an insert() statement
+Inserting Multiple Records at Once
+Loading a CSV into a Table
+Updating individual records
+Updating Multiple Records
+Correlated Updates
+Deleting all the records from a table
+Deleting specific records
+Deleting a Table Completely
+
+Putting it all together
+Setup the Engine and MetaData
+Create the Table to the Database
+Reading the Data from the CSV
+Load Data from a list into the Table
+Build a Query to Determine the Average Age by Population
+Build a Query to Determine the Percentage of Population by Gender and State
+Build a Query to Determine the Difference by State from the 2000 and 2008 Censuses

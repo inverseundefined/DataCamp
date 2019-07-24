@@ -1,0 +1,40 @@
+Python Data Science Toolbox (Part 1)
+Writing your own functions
+Strings in Python
+Recapping built-in functions
+Write a simple function
+Single-parameter functions
+Functions that return single values
+Functions with multiple parameters
+A brief introduction to tuples
+Functions that return multiple values
+Bringing it all together (1)
+Bringing it all together (2)
+
+Default arguments, variable-length arguments and scope
+Pop quiz on understanding scope
+The keyword global
+Python's built-in scope
+Nested Functions I
+Nested Functions II
+The keyword nonlocal and nested functions
+Functions with one default argument
+Functions with multiple default arguments
+Functions with variable-length arguments (*args)
+Functions with variable-length keyword arguments (**kwargs)
+Bringing it all together (1)
+Bringing it all together (2)
+
+Lambda functions and error-handling
+Pop quiz on lambda functions
+Writing a lambda function you already know
+Map() and lambda functions
+Filter() and lambda functions
+Reduce() and lambda functions
+Pop quiz about errors
+Error handling with try-except
+Error handling by raising an error
+Bringing it all together (1)
+Bringing it all together (2)
+Bringing it all together (3)
+Bringing it all together: testing your error handling skills
